@@ -32,6 +32,8 @@ A full-stack e-commerce web application built with Spring Boot (Backend) and Rea
 ### Add Product (Admin)
 ![Add Product](screenshots/insert.png)
 
+
+## Update Product (Admin)
 ![Update Product](screenshots/Update.png)
 
 
