@@ -9,6 +9,7 @@ A full-stack e-commerce web application built with Spring Boot (Backend) and Rea
 
 ## 📋 Table of Contents
 
+- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Technology Stack](#-technology-stack)
 - [Prerequisites](#-prerequisites)
@@ -19,6 +20,26 @@ A full-stack e-commerce web application built with Spring Boot (Backend) and Rea
 - [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
 - [License](#-license)
+
+## 📸 Screenshots
+
+### Home Page - Product Listing
+![Home Page](screenshots/HOME.png)
+
+### Product Details
+![Product Details](screenshots/overview.png)
+
+### Add Product (Admin)
+![Add Product](screenshots/insert.png)
+
+![Update Product](screenshots/Update.png)
+
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+### Search Functionality
+![Search](screenshots/Search.png)
 
 ## ✨ Features
 
